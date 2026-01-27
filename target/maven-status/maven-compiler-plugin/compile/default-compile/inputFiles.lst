@@ -1,0 +1,13 @@
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/App.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/config/DataBaseConfig.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/constants/DBConstants.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/constants/Fare.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/constants/ParkingType.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/dao/ParkingSpotDAO.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/dao/TicketDAO.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/model/ParkingSpot.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/model/Ticket.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/service/FareCalculatorService.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/service/InteractiveShell.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/service/ParkingService.java
+/Users/kahen/CDA/Backend/parkingsystem/src/main/java/com/parkit/parkingsystem/util/InputReaderUtil.java
